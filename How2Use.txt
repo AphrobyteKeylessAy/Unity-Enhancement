@@ -1,0 +1,5 @@
+1. Download the file
+2. Start UnityHub and go into a random project
+3. open Unity++
+4. wait for the GUI to show up
+5. Have Fun with a ton of features
